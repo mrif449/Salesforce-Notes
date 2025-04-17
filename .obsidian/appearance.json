@@ -1,0 +1,11 @@
+{
+  "cssTheme": "",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "0xProto",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "accentColor": ""
+}

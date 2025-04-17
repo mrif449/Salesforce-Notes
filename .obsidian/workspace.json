@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "0dc5e7599ba16655",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5fcdf829ae5f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf64c97f18ef1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/4. Use Custom Metadata Types in Flows.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "4. Use Custom Metadata Types in Flows"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f42b8186b30d1767",
+    "type": "split",
+    "children": [
+      {
+        "id": "18739e8586894f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a27449f9c3a5be2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07810c7722c428d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7795537353317ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 491.5
+  },
+  "right": {
+    "id": "de13790a1743e3cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c7dad6d5f7b283c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a1de3efe9fdd74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Admin Beginner/1. Salesforce Platform Basics/4. Navigate Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Navigate Setup"
+            }
+          },
+          {
+            "id": "b77946aa7e957a7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Admin Beginner/1. Salesforce Platform Basics/5. Power Up with AppExchange.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5. Power Up with AppExchange"
+            }
+          },
+          {
+            "id": "d79d8299504ec9b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d96452388914ea74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Admin Beginner/1. Salesforce Platform Basics/5. Power Up with AppExchange.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. Power Up with AppExchange"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1cf64c97f18ef1b9",
+  "lastOpenFiles": [
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/3. Use Custom Metadata Types in Formulas, Default Values, and Validation Rules.md",
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/4. Use Custom Metadata Types in Flows.md",
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/1. Get Started with Custom Metadata Types.md",
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/2. Create and Manage Custom Metadata Types.md",
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics",
+    "Admin Beginner/2. Data Modeling/1. Optimize Customer Data with Standard and Custom Objects.md",
+    "Configure Your App with Custom Metadata Types",
+    "Admin Intermediate/2. Data Security",
+    "Admin Intermediate",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/5. Visualize Your Data with the Lightning Dashboard Builder.md",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/4. Format Your Report.md",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/3. Filter Your Report.md",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/1. Get to Know Lightning Reports and Dashboards.md",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/2. Create Reports with the Report Builder.md",
+    "Admin Beginner/2. Data Modeling/2. Create Object Relationships.md",
+    "Admin Beginner/6. Reports & Dashboards for Lightning Experience",
+    "Admin Beginner/1. Salesforce Platform Basics/4. Navigate Setup.md",
+    "Admin Beginner/1. Salesforce Platform Basics/3. Understand the Salesforce Architecture.md",
+    "desktop.ini",
+    "Admin Beginner/5. User Engagement/4. Design a User Engagement Journey.md",
+    "Admin Beginner/5. User Engagement/3. Create Prompts in Lightning Experience.md",
+    "Admin Beginner/5. User Engagement/2. Promote Feature Adoption and Discovery.md",
+    "Admin Beginner/5. User Engagement/1. Get Started with User Engagement.md",
+    "Admin Beginner/4. Lightning Experience Customization/7. Empower Your Users with Quick Actions.md",
+    "Admin Beginner/4. Lightning Experience Customization/6. Create Custom Buttons and Links.md",
+    "Admin Beginner/4. Lightning Experience Customization/5. Customize Record Page Components and Fields.md",
+    "Admin Beginner/4. Lightning Experience Customization/4. Customize Record Highlights with Compact Layouts.md",
+    "Admin Beginner/4. Lightning Experience Customization/3. Create and Customize List Views.md",
+    "Admin Beginner/4. Lightning Experience Customization/2. Create and Customize Lightning Apps.md",
+    "Admin Beginner/4. Lightning Experience Customization/1. Set Up Your Org.md",
+    "Admin Beginner/3. Data Management/2. Export Data.md",
+    "Admin Beginner/3. Data Management/1. Import Data.md"
+  ]
+}
