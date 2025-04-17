@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/4. Use Custom Metadata Types in Flows.md",
+                "file": "Admin Intermediate/2. Data Security/7. Define Sharing Rules.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. Use Custom Metadata Types in Flows"
+              "title": "7. Define Sharing Rules"
             }
           }
         ]
@@ -170,8 +170,15 @@
   },
   "active": "1cf64c97f18ef1b9",
   "lastOpenFiles": [
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/3. Use Custom Metadata Types in Formulas, Default Values, and Validation Rules.md",
+    "Admin Intermediate/2. Data Security/6. Create a Role Hierarchy.md",
+    "Admin Intermediate/2. Data Security/7. Define Sharing Rules.md",
+    "Admin Intermediate/2. Data Security/5. Control Access to Records.md",
+    "Admin Intermediate/2. Data Security/4. Control Access to Fields.md",
+    "Admin Intermediate/2. Data Security/3. Control Access to Objects.md",
+    "Admin Intermediate/2. Data Security/2. Control Access to the Org.md",
+    "Admin Intermediate/2. Data Security/1. Overview of Data Security.md",
     "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/4. Use Custom Metadata Types in Flows.md",
+    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/3. Use Custom Metadata Types in Formulas, Default Values, and Validation Rules.md",
     "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/1. Get Started with Custom Metadata Types.md",
     "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/2. Create and Manage Custom Metadata Types.md",
     "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics",
@@ -194,13 +201,6 @@
     "Admin Beginner/5. User Engagement/2. Promote Feature Adoption and Discovery.md",
     "Admin Beginner/5. User Engagement/1. Get Started with User Engagement.md",
     "Admin Beginner/4. Lightning Experience Customization/7. Empower Your Users with Quick Actions.md",
-    "Admin Beginner/4. Lightning Experience Customization/6. Create Custom Buttons and Links.md",
-    "Admin Beginner/4. Lightning Experience Customization/5. Customize Record Page Components and Fields.md",
-    "Admin Beginner/4. Lightning Experience Customization/4. Customize Record Highlights with Compact Layouts.md",
-    "Admin Beginner/4. Lightning Experience Customization/3. Create and Customize List Views.md",
-    "Admin Beginner/4. Lightning Experience Customization/2. Create and Customize Lightning Apps.md",
-    "Admin Beginner/4. Lightning Experience Customization/1. Set Up Your Org.md",
-    "Admin Beginner/3. Data Management/2. Export Data.md",
-    "Admin Beginner/3. Data Management/1. Import Data.md"
+    "Admin Beginner/4. Lightning Experience Customization/6. Create Custom Buttons and Links.md"
   ]
 }
