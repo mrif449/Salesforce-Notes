@@ -1,7 +1,7 @@
 {
   "cssTheme": "",
   "interfaceFontFamily": "Inter",
-  "monospaceFontFamily": "0xProto",
+  "monospaceFontFamily": "Cascadia Mono",
   "showViewHeader": true,
   "showRibbon": false,
   "nativeMenus": false,
