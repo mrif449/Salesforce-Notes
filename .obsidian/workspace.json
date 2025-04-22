@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/4. Use a For Loop to Iterate Through a List.md",
+                "file": "Build Apex Coding Skills/1. Apex Basics for Admins/2. Practice in the Developer Console.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. Use a For Loop to Iterate Through a List"
+              "title": "2. Practice in the Developer Console"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "1cf64c97f18ef1b9",
   "lastOpenFiles": [
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/3. Define Sets and Maps.md",
+    "Build Apex Coding Skills/1. Apex Basics for Admins/1. Get Started with Apex.md",
     "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/4. Use a For Loop to Iterate Through a List.md",
+    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/3. Define Sets and Maps.md",
     "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/2. Use sObjects and DML.md",
     "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/1. Create Classes and Objects.md",
     "Build Apex Coding Skills/1. Apex Basics for Admins/5. Use Loops.md",
@@ -179,7 +180,6 @@
     "Build Apex Coding Skills/1. Apex Basics for Admins/4. Control Data Flow.md",
     "Build Apex Coding Skills/1. Apex Basics for Admins/3. Use Collections.md",
     "Build Apex Coding Skills/1. Apex Basics for Admins/2. Practice in the Developer Console.md",
-    "Build Apex Coding Skills/1. Apex Basics for Admins/1. Get Started with Apex.md",
     "Admin Intermediate/2. Data Security/3. Control Access to Objects.md",
     "Build Apex Coding Skills/1. Apex Basics for Admins",
     "Build Apex Coding Skills",
