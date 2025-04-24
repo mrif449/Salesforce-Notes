@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Apex Coding Skills/1. Apex Basics for Admins/2. Practice in the Developer Console.md",
+                "file": "Apex Basics & Database/5. Write SOSL Queries.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. Practice in the Developer Console"
+              "title": "5. Write SOSL Queries"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 367.5
   },
   "right": {
     "id": "de13790a1743e3cd",
@@ -170,41 +170,41 @@
   },
   "active": "1cf64c97f18ef1b9",
   "lastOpenFiles": [
-    "Build Apex Coding Skills/1. Apex Basics for Admins/1. Get Started with Apex.md",
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/4. Use a For Loop to Iterate Through a List.md",
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/3. Define Sets and Maps.md",
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/2. Use sObjects and DML.md",
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins/1. Create Classes and Objects.md",
-    "Build Apex Coding Skills/1. Apex Basics for Admins/5. Use Loops.md",
-    "Build Apex Coding Skills/2. Object-Oriented Programming for Admins",
-    "Build Apex Coding Skills/1. Apex Basics for Admins/4. Control Data Flow.md",
-    "Build Apex Coding Skills/1. Apex Basics for Admins/3. Use Collections.md",
-    "Build Apex Coding Skills/1. Apex Basics for Admins/2. Practice in the Developer Console.md",
-    "Admin Intermediate/2. Data Security/3. Control Access to Objects.md",
-    "Build Apex Coding Skills/1. Apex Basics for Admins",
-    "Build Apex Coding Skills",
-    "Admin Intermediate/2. Data Security/2. Control Access to the Org.md",
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/4. Use Custom Metadata Types in Flows.md",
-    "README.md",
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/3. Use Custom Metadata Types in Formulas, Default Values, and Validation Rules.md",
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/2. Create and Manage Custom Metadata Types.md",
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics/1. Get Started with Custom Metadata Types.md",
-    "Admin Intermediate/2. Data Security/7. Define Sharing Rules.md",
-    "New Text Document.txt",
-    "Admin Intermediate/2. Data Security/6. Create a Role Hierarchy.md",
-    "Admin Intermediate/2. Data Security/5. Control Access to Records.md",
-    "Admin Intermediate/2. Data Security/4. Control Access to Fields.md",
-    "Admin Intermediate/2. Data Security/1. Overview of Data Security.md",
-    "Configure Your App with Custom Metadata Types/1. Custom Metadata Types Basics",
-    "Admin Beginner/2. Data Modeling/1. Optimize Customer Data with Standard and Custom Objects.md",
-    "Configure Your App with Custom Metadata Types",
-    "Admin Intermediate/2. Data Security",
-    "Admin Intermediate",
-    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/5. Visualize Your Data with the Lightning Dashboard Builder.md",
-    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/4. Format Your Report.md",
-    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/3. Filter Your Report.md",
-    "Admin Beginner/6. Reports & Dashboards for Lightning Experience/1. Get to Know Lightning Reports and Dashboards.md",
-    "Admin Beginner/6. Reports & Dashboards for Lightning Experience",
-    "desktop.ini"
+    "Apex Basics & Database/4. Write SOQL Queries.md",
+    "Apex Basics & Database/5. Write SOSL Queries.md",
+    "Apex Basics & Database/3. Manipulate Records with DML.md",
+    "Apex Basics & Database/2. Use sObjects.md",
+    "Apex Basics & Database/1. Get Started with Apex.md",
+    "Other/1. Apex Fundamentals for Developers/3. Create Code with Apex.md",
+    "Apex Basics & Database",
+    "Reports & Dashboards for Lightning Experience/5. Visualize Your Data with the Lightning Dashboard Builder.md",
+    "Reports & Dashboards for Lightning Experience/4. Format Your Report.md",
+    "Reports & Dashboards for Lightning Experience/3. Filter Your Report.md",
+    "Reports & Dashboards for Lightning Experience/2. Create Reports with the Report Builder.md",
+    "Reports & Dashboards for Lightning Experience/1. Get to Know Lightning Reports and Dashboards.md",
+    "Reports & Dashboards for Lightning Experience",
+    "User Engagement/4. Design a User Engagement Journey.md",
+    "User Engagement/3. Create Prompts in Lightning Experience.md",
+    "User Engagement/2. Promote Feature Adoption and Discovery.md",
+    "User Engagement/1. Get Started with User Engagement.md",
+    "User Engagement",
+    "Lightning Experience Customization/7. Empower Your Users with Quick Actions.md",
+    "Lightning Experience Customization/6. Create Custom Buttons and Links.md",
+    "Lightning Experience Customization/5. Customize Record Page Components and Fields.md",
+    "Lightning Experience Customization/4. Customize Record Highlights with Compact Layouts.md",
+    "Lightning Experience Customization/3. Create and Customize List Views.md",
+    "Lightning Experience Customization/2. Create and Customize Lightning Apps.md",
+    "Lightning Experience Customization/1. Set Up Your Org.md",
+    "Lightning Experience Customization",
+    "Data Management/2. Export Data.md",
+    "Data Management/1. Import Data.md",
+    "Data Management",
+    "Object-Oriented Programming for Admins/4. Use a For Loop to Iterate Through a List.md",
+    "Object-Oriented Programming for Admins/3. Define Sets and Maps.md",
+    "Object-Oriented Programming for Admins",
+    "Data Security",
+    "Data Modeling",
+    "Salesforce Platform Basics",
+    "Custom Metadata Types Basics"
   ]
 }
