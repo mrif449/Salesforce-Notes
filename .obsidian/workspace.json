@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apex Basics & Database/5. Write SOSL Queries.md",
+                "file": "Use Apex to Automate Business Processes/4. Create and Test a Trigger.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5. Write SOSL Queries"
+              "title": "4. Create and Test a Trigger"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin Beginner/1. Salesforce Platform Basics/4. Navigate Setup.md",
+                "file": "Apex Basics & Database/5. Write SOSL Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Navigate Setup"
+              "title": "Backlinks for 5. Write SOSL Queries"
             }
           },
           {
@@ -170,41 +170,41 @@
   },
   "active": "1cf64c97f18ef1b9",
   "lastOpenFiles": [
-    "Apex Basics & Database/4. Write SOQL Queries.md",
-    "Apex Basics & Database/5. Write SOSL Queries.md",
+    "Use Apex to Automate Business Processes/3. Use Salesforce Data in Apex Code.md",
+    "Use Apex to Automate Business Processes/4. Create and Test a Trigger.md",
+    "Use Apex to Automate Business Processes/2. Salesforce Trailhead- Create the Automation to Run the Free Bouquet Promotion.md",
+    "Use Apex to Automate Business Processes/1. Set Up the BOTanicals App.md",
+    "Untitled",
+    "SOQL for Admins/5. Use Bind Variables and Aggregate Functions.md",
+    "Use Apex to Automate Business Processes",
+    "SOQL for Admins/4. Create Relationship Queries with Custom Objects.md",
+    "SOQL for Admins/3. Create Relationship Queries with Standard Objects.md",
+    "SOQL for Admins/2. Create SOQL Queries in Apex Classes.md",
+    "SOQL for Admins/1. Get Started with SOQL Queries.md",
+    "Lightning Web Components Basics/3. Deploy Lightning Web Component Files.md",
+    "SOQL for Admins",
+    "Lightning Web Components Basics/2. Create Lightning Web Components.md",
+    "Lightning Web Components Basics/1. Discover Lightning Web Components.md",
+    "Get Started with Salesforce Development/1. Get Ready to Develop.md",
+    "Lightning Web Components Basics",
+    "Quick Start- Tour the Sample App Gallery/2. Learn About Sample App Tooling.md",
+    "Get Started with Salesforce Development",
+    "Quick Start- Tour the Sample App Gallery/1. Get to Know the Sample Gallery.md",
+    "Platform Development Basics/4. Extend the Salesforce Platform.md",
+    "Quick Start- Tour the Sample App Gallery",
     "Apex Basics & Database/3. Manipulate Records with DML.md",
+    "Platform Development Basics/3. Code with Salesforce Languages.md",
+    "Platform Development Basics/2. Develop Without Code.md",
+    "Platform Development Basics/1. Get Started with the Salesforce Platform.md",
+    "Apex Basics & Database/5. Write SOSL Queries.md",
+    "Platform Development Basics",
+    "Apex Basics & Database/4. Write SOQL Queries.md",
     "Apex Basics & Database/2. Use sObjects.md",
     "Apex Basics & Database/1. Get Started with Apex.md",
     "Other/1. Apex Fundamentals for Developers/3. Create Code with Apex.md",
     "Apex Basics & Database",
     "Reports & Dashboards for Lightning Experience/5. Visualize Your Data with the Lightning Dashboard Builder.md",
-    "Reports & Dashboards for Lightning Experience/4. Format Your Report.md",
-    "Reports & Dashboards for Lightning Experience/3. Filter Your Report.md",
-    "Reports & Dashboards for Lightning Experience/2. Create Reports with the Report Builder.md",
-    "Reports & Dashboards for Lightning Experience/1. Get to Know Lightning Reports and Dashboards.md",
     "Reports & Dashboards for Lightning Experience",
-    "User Engagement/4. Design a User Engagement Journey.md",
-    "User Engagement/3. Create Prompts in Lightning Experience.md",
-    "User Engagement/2. Promote Feature Adoption and Discovery.md",
-    "User Engagement/1. Get Started with User Engagement.md",
-    "User Engagement",
-    "Lightning Experience Customization/7. Empower Your Users with Quick Actions.md",
-    "Lightning Experience Customization/6. Create Custom Buttons and Links.md",
-    "Lightning Experience Customization/5. Customize Record Page Components and Fields.md",
-    "Lightning Experience Customization/4. Customize Record Highlights with Compact Layouts.md",
-    "Lightning Experience Customization/3. Create and Customize List Views.md",
-    "Lightning Experience Customization/2. Create and Customize Lightning Apps.md",
-    "Lightning Experience Customization/1. Set Up Your Org.md",
-    "Lightning Experience Customization",
-    "Data Management/2. Export Data.md",
-    "Data Management/1. Import Data.md",
-    "Data Management",
-    "Object-Oriented Programming for Admins/4. Use a For Loop to Iterate Through a List.md",
-    "Object-Oriented Programming for Admins/3. Define Sets and Maps.md",
-    "Object-Oriented Programming for Admins",
-    "Data Security",
-    "Data Modeling",
-    "Salesforce Platform Basics",
-    "Custom Metadata Types Basics"
+    "User Engagement"
   ]
 }
