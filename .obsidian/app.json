@@ -1,13 +1,4 @@
 {
-  "defaultViewMode": "preview",
-  "livePreview": false,
-  "showLineNumber": false,
-  "showInlineTitle": true,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }

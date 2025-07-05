@@ -1,11 +1,7 @@
 {
-  "cssTheme": "",
   "interfaceFontFamily": "Inter",
-  "monospaceFontFamily": "Cascadia Mono",
-  "showViewHeader": true,
-  "showRibbon": false,
-  "nativeMenus": false,
-  "baseFontSizeAction": true,
-  "baseFontSize": 19,
-  "accentColor": ""
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Zx Proto",
+  "baseFontSize": 18,
+  "cssTheme": "Things"
 }
