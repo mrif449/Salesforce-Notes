@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform/Evaluate an Integration Pattern.md",
-                "mode": "source",
+                "file": "Salesforce Associate/Salesforce Objects.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluate an Integration Pattern"
+              "title": "Salesforce Objects"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "fb81ec68c2792e7b",
   "lastOpenFiles": [
-    "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform/Practice the Layer Approach.md",
     "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform/Evaluate an Integration Pattern.md",
+    "Salesforce Associate/Salesforce Objects.md",
+    "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform/Practice the Layer Approach.md",
     "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform/Learn About Integration Patterns and Designs.md",
     "Salesforce Developer Notes/Order of Execution.md",
     "Trailhead Notes/Explore Integration Patterns and Practices/Application Integration Patterns for Salesforce Lightning Platform",
