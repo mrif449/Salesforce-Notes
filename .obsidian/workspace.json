@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Note ChatGPT/Omni-Channel Routing.md",
+                "file": "Study Note ChatGPT/Salesforce Field Service (FSL).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omni-Channel Routing"
+              "title": "Salesforce Field Service (FSL)"
             }
           }
         ],
@@ -199,10 +199,11 @@
   },
   "active": "fb81ec68c2792e7b",
   "lastOpenFiles": [
+    "Study Note ChatGPT/Omni-Channel Routing.md",
+    "Study Note ChatGPT/Salesforce Field Service (FSL).md",
     "Salesforce Associate/Salesforce Objects.md",
     "Salesforce Associate/3. Data Management.md",
     "Salesforce Associate/2. Navigation, Data Model, and Reporting.md",
-    "Study Note ChatGPT/Omni-Channel Routing.md",
     "Study Note ChatGPT/Apex Trigger.md",
     "Study Note ChatGPT/Salesforce Apex Class.md",
     "Study Note ChatGPT/Connected App.md",
